@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndrePimentel29724ER</string>
+    <string name="nome">Andre Pimentel</string>
+    <string name="cursoDisciplina">TPSI/PMEU</string>
+    <string name="numeroAluno">29724</string>
+    <string name="titulo">Recurso PMEU</string>
+    <string name="botao">Botao para Crew</string>
+    <string name="botaoAluno">Informacao Aluno</string>
+</resources>
